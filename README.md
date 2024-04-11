@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dzamsgaglo" target="blank"><img src="https://img.shields.io/twitter/follow/dzamsgaglo?logo=twitter&style=for-the-badge" alt="dzamsgaglo" /></a> </p>
 
-- 🔭 I’m currently working on [CNO](https://gocno.io)
+- 🔭 I’m currently working on [Akouendy](https://www.akouendy.com)
 
 - 🌱 I’m currently learning **Go, eBPF, Aws, Azure**
 
